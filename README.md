@@ -1,33 +1,122 @@
-*📊 Business Problem*
+# 📊 Customer Trend Analysis Dashboard
 
-A retail company aims to better understand customer purchasing behavior to improve revenue, customer engagement, and long-term loyalty.
+> End-to-End Retail Consumer Behavior Analysis using Excel, Power Query & Power BI
+> Business Intelligence | KPI Development | Strategic Insights
 
-Recent shifts in:
+---
 
-Customer demographics
+## 🚀 Project Summary
 
-Sales channels (Online vs Offline)
+Retail businesses generate massive volumes of customer transaction data.
+However, raw data alone does not drive growth — actionable insights do.
 
-Product category performance
+This project analyzes customer purchasing behavior to uncover:
 
-Seasonal trends
+* Revenue-driving product categories
+* High-value customer segments
+* Seasonal sales patterns
+* Discount impact on purchase decisions
+* Online vs Offline performance trends
 
-Discount effectiveness
+The final output is an interactive Power BI dashboard designed to support data-driven business decisions.
 
-Payment preferences
+---
 
-have created uncertainty in strategic decision-making.
+## 🎯 Business Objective
 
-#🎯 Objective
+To transform raw retail transaction data into strategic insights that help management:
 
-To analyze customer shopping data and generate actionable business insights that help:
+* Increase revenue
+* Improve customer retention
+* Optimize marketing strategies
+* Strengthen online channel growth
 
-Improve marketing strategies
+---
 
-Optimize discount policies
+## 🛠 Tools & Technologies
 
-Identify high-value customer segments
+| Tool        | Purpose                        |
+| ----------- | ------------------------------ |
+| Excel       | Initial data cleaning          |
+| Power Query | Data transformation & modeling |
+| Power BI    | Dashboard & visualization      |
+| DAX         | KPI calculations               |
 
-Enhance product positioning
+---
 
-Increase repeat purchase rates
+## 📂 Project Workflow
+
+### 1️⃣ Data Cleaning
+
+* Removed duplicates
+* Standardized categorical fields
+* Handled missing values
+* Ensured data consistency
+
+### 2️⃣ Data Modeling
+
+* Built structured data model
+* Created relationships between tables
+* Designed star schema
+* Developed calculated measures using DAX
+
+### 3️⃣ Dashboard Development
+
+The dashboard includes:
+
+* 📌 Revenue KPI
+* 📌 Monthly Sales Trends
+* 📌 Category Performance
+* 📌 Online vs Offline Channel Comparison
+* 📌 Discount Impact Analysis
+* 📌 Customer Demographics Insights
+* 📌 Payment Method Distribution
+* 📌 Seasonal Performance
+
+---
+
+## 📈 Key Insights
+
+* Identified top-performing product categories contributing majority of revenue
+* Observed seasonal sales peaks during high-demand months
+* Discounts significantly influenced online purchase volume
+* Certain customer demographics showed stronger repeat purchase behavior
+* Online channel demonstrated increasing growth trend
+
+---
+
+## 💡 Business Recommendations
+
+* Focus marketing campaigns on high-performing customer segments
+* Optimize discount strategy during peak seasons
+* Strengthen online engagement initiatives
+* Develop loyalty programs targeting repeat buyers
+
+---
+
+## 📊 Dashboard Preview
+
+(Add a clean screenshot here — VERY important)
+
+---
+
+## 🧠 Skills Demonstrated
+
+* Business Problem Framing
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Measure Development
+* KPI Design
+* Data Storytelling
+* Strategic Insight Generation
+
+---
+
+## 🔮 Future Enhancements
+
+* Customer Lifetime Value Analysis
+* RFM Segmentation
+* Predictive Sales Forecasting
+* Integration with SQL Database
+
+---
